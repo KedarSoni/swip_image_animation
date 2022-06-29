@@ -67,7 +67,7 @@ class LiquidSwipeScreen extends StatelessWidget {
       child: Scaffold(
         extendBodyBehindAppBar: true,
         appBar: AppBar(
-          title: Text("@C O D E   W I T H   F L E X Z"),
+          title: Text("@Code with kedar"),
           elevation: 0,
           centerTitle: true,
           backgroundColor: Colors.transparent,
